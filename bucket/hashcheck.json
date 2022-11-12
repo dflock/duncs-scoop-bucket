@@ -1,0 +1,14 @@
+{
+    "version": "2.5.0.1",
+    "description": "HashCheck Shell Extension",
+    "homepage": "https://github.com/idrassi/HashCheck",
+    "license": "BSD-3-Clause",
+    "url": "https://github.com/idrassi/HashCheck/releases/download/v2.5.0/HashCheckSetup-v2.5.0.1.exe",
+    "hash": "08b24442831fb903500460132ba9cae2f415ee640fd0fdabb1e9082ea680bc52",
+    "checkver": {
+        "github": "https://github.com/idrassi/HashCheck"
+    },
+    "autoupdate": {
+        "url": "https://github.com/idrassi/HashCheck/releases/download/$version/HashCheckSetup-v$version.zip"
+    }
+}
