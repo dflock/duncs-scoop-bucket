@@ -5,6 +5,7 @@
     "license": "MIT",
     "url": "https://github.com/hwtnb/SylphyHornPlusWin11/releases/download/v4.0.0-beta.8/SylphyHornPlus-Ver4.0.0-beta.8.zip",
     "hash": "e379aab9e0bea7007f58428047761d360776e85f99f3bbb6a155b3e1c80dcac1",
+    "extract_dir": "SylphyHorn",
     "bin": "SylphyHorn.exe",
     "shortcuts": [
         [
